@@ -41,7 +41,7 @@ const PopoverDemo = () => {
           onClose={handleClose}
           onOpen={handleOpen}
           placement="top"
-          offset={8}
+          // offset={8}
           trigger={(triggerProps) => {
             return (
               <Button {...triggerProps}>

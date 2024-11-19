@@ -1,4 +1,3 @@
-import React from "react";
 import { Box } from "@/components/ui/box";
 import { Center } from "@/components/ui/center";
 import {

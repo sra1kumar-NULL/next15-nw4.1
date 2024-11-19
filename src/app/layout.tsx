@@ -29,7 +29,7 @@ export default function RootLayout({
     <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      ><StyledJsxRegistry><GluestackUIProvider mode="light">
+      ><StyledJsxRegistry><GluestackUIProvider mode="light" mode="light" mode="light" mode="light">
             {children}
           </GluestackUIProvider></StyledJsxRegistry></body>
     </html>
