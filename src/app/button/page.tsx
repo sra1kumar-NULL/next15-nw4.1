@@ -6,8 +6,7 @@ import {
   ButtonIcon,
 } from "@/components/ui/button";
 import { Center } from "@/components/ui/center";
-import { LogOut } from "lucide-react-native";
-
+import { LogOut } from "@/components/ui/icon";
 const ButtonDemo = () => {
   return (
     <Center className="flex-1 bg-background-0">

@@ -3,7 +3,7 @@ import { Link, LinkText } from "@/components/ui/link";
 import { Center } from "@/components/ui/center";
 import { HStack } from "@/components/ui/hstack";
 import { Icon } from "@/components/ui/icon";
-import { Twitter, Youtube } from "lucide-react-native";
+import { Twitter, Youtube } from "lucide-react";
 
 const LinkDemo = () => {
   return (

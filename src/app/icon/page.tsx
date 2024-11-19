@@ -8,7 +8,8 @@ import {
   Delete,
   MessageSquare,
   Camera,
-} from "lucide-react-native";
+} from "lucide-react";
+
 import {
   TrashIcon,
   CalendarDaysIcon,

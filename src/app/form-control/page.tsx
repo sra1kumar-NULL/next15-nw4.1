@@ -14,7 +14,7 @@ import { Input, InputField, InputSlot, InputIcon } from "@/components/ui/input";
 import { AlertCircleIcon } from "@/components/ui/icon";
 import { Button, ButtonText } from "@/components/ui/button";
 import { Center } from "@/components/ui/center";
-import { EyeIcon, EyeOffIcon } from "lucide-react-native";
+import { EyeIcon, EyeOffIcon } from "lucide-react";
 
 const FormControlDemo = () => {
   const [isInvalid, setIsInvalid] = React.useState(false);

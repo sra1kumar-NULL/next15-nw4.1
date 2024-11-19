@@ -1,4 +1,4 @@
-'use client'
+"use client";
 import React from "react";
 import {
   Accordion,
@@ -13,7 +13,7 @@ import {
 import { Divider } from "@/components/ui/divider";
 import { ScrollView } from "@/components/ui/scroll-view";
 import { Box } from "@/components/ui/box";
-import { ChevronDownIcon, ChevronUpIcon } from "lucide-react-native";
+import { ChevronDownIcon, ChevronUpIcon } from "@/components/ui/icon";
 
 const AccordionDemo = () => {
   const accRef = React.useRef(null);

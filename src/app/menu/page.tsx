@@ -1,3 +1,4 @@
+"use client";
 import React from "react";
 import { Center } from "@/components/ui/center";
 import { Button, ButtonText } from "@/components/ui/button";
